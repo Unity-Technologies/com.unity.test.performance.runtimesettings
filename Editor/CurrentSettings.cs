@@ -21,5 +21,6 @@ namespace com.unity.test.performance.runtimesettings
         public string PackageUnderTestRevision;
         public string PackageUnderTestRevisionDate;
         public string PackageUnderTestPackageBranch;
+        public string ScriptingBackend;
     }
 }
