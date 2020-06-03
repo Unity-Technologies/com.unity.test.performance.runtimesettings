@@ -9,7 +9,6 @@ namespace com.unity.test.performance.runtimesettings
         public bool GraphicsJobs;
         public bool EnableBurst;
         public string ColorSpace;
-        public string PackageInfo;
         public string Username;
         public string RenderPipeline;
         public int AntiAliasing;
@@ -21,5 +20,6 @@ namespace com.unity.test.performance.runtimesettings
         public string PackageUnderTestRevision;
         public string PackageUnderTestRevisionDate;
         public string PackageUnderTestPackageBranch;
+        public string ScriptingBackend;
     }
 }
