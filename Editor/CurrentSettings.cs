@@ -21,6 +21,7 @@ namespace com.unity.test.performance.runtimesettings
         public string PackageUnderTestRevisionDate;
         public string PackageUnderTestPackageBranch;
         public string ScriptingBackend;
-		public string JobLink;
+        public string JobLink;
+        public int JobWorkerCount;
     }
 }
