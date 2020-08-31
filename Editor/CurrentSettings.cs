@@ -23,5 +23,9 @@ namespace com.unity.test.performance.runtimesettings
         public string ScriptingBackend;
         public string JobLink;
         public int JobWorkerCount;
+        public string ApiCompatibilityLevel;
+        public bool StripEngineCode;
+        public string ManagedStrippingLevel;
+        public bool ScriptDebugging;
     }
 }
