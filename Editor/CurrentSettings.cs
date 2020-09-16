@@ -19,7 +19,7 @@ namespace com.unity.test.performance.runtimesettings
         public string PackageUnderTestVersion;
         public string PackageUnderTestRevision;
         public string PackageUnderTestRevisionDate;
-        public string PackageUnderTestPackageBranch;
+        public string PackageUnderTestBranch;
         public string ScriptingBackend;
         public string JobLink;
         public int JobWorkerCount;
@@ -27,5 +27,18 @@ namespace com.unity.test.performance.runtimesettings
         public bool StripEngineCode;
         public string ManagedStrippingLevel;
         public bool ScriptDebugging;
+        public string TestProjectName;
+        public string TestProjectRevision;
+        public string TestProjectRevisionDate;
+        public string TestProjectBranch;
+        public string EnabledXrTarget;
+        public string StereoRenderingMode;
+        public string StereoRenderingModeDesktop;
+        public string StereoRenderingModeAndroid;
+        public string SimulationMode;
+        public string PluginVersion;
+        public string DeviceRuntimeVersion;
+        public string FfrLevel;
+        public string AndroidTargetArchitecture;
     }
 }
