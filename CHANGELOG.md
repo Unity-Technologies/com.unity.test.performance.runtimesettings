@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [0.1.0-preview] - 2019-06-24
 
 - Remove Editor requirement in asmdef
+- Move settings to a Runtime folder
 
 ## [0.1.0-preview] - 2019-06-18
 
