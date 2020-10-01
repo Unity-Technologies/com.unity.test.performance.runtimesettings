@@ -4,6 +4,7 @@ namespace com.unity.test.performance.runtimesettings
 {
     public class CurrentSettings : ScriptableObject
     {
+        public string ProjectName;
         public string PlayerGraphicsApi;
         public bool MtRendering;
         public bool GraphicsJobs;
